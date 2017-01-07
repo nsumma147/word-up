@@ -66,3 +66,14 @@ input:focus {
     border: 2px solid #4285F4; /* Bootstrap "primary" blue */
     outline-color: #4285f4; /* outline is the fuzzy "glow" */
 }
+
+.tag-goodchip {
+    font-size: 16px;
+    margin-left: 0.5em;
+    background-color: blue;
+}
+.tag-badchip {
+    font-size: 16px;
+    margin-left: 0.5em;
+    background-color: red;
+}
